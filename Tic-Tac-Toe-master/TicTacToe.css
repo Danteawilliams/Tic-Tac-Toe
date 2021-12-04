@@ -1,0 +1,32 @@
+* {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#game {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1in;
+}
+
+#game tbody td {
+    width: 2in;
+    height: 2in;
+    font-size: 100pt;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#game tfoot td {
+    font-size: 25pt;
+    text-align: center;
+}
+
+#game caption {
+    font-size: 50pt;
+}
+
+#reset {
+    font-size: 30pt;
+    width: 2in;
+}
